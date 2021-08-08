@@ -23,7 +23,7 @@
 :mailbox:: fbfbf1@naver.com
 
 
-## Stats
+## :smiley_cat:Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-ryuri&&show_icons=true&theme=white)
 
 
@@ -41,11 +41,11 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-## BOJ
+## :heart_eyes_cat:BOJ
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fbfbf1)](https://solved.ac/fbfbf1)  
 * #### SeoulTech 10th
 
-## Blog
+## :smile_cat:Blog
 * [NAVER](https://blog.naver.com/fbfbf1)
 
 
