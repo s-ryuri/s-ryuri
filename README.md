@@ -13,7 +13,7 @@
 - ⚡ Fun fact: ...
 -->
 ## Who am I😄
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20SeongryoolWee%20&height=250&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20SeongryoolWee%20&height=230&fontSize=90&animation=fadeIn)
 
 
 * ### Seoul National University of Science and Technology (Seoultech)   
