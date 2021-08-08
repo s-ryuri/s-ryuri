@@ -38,6 +38,7 @@ _Department of Computer Science and Engineering_
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ## BOJ
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/fbfbf1)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fbfbf1)](https://solved.ac/fbfbf1)  
+#### SeoulTech 10th
 
 
