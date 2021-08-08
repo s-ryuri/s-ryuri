@@ -23,6 +23,10 @@ _Department of Industrial and Information Systems Engineering_
 _Department of Computer Science and Engineering_
 
 :mailbox:: fbfbf1@naver.com
+
+## stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-ryuri123&&show_icons=true&theme=white)
+
 ## :computer:Tech Stack:computer:
 
 
