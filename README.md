@@ -48,6 +48,6 @@
 ## :smile_cat:Blog
 * [NAVER](https://blog.naver.com/fbfbf1)
 
-### :smiley_cat:Scholarship
-* 2019 fall semester half-price scholarship (3rd)  
-* 2020 fall semester Full scholarship (1st)
+## :smiley_cat:Scholarship
+* 2020 spring semester half-price scholarship (3rd)  
+* 2021 spring semester Full scholarship (1st)
