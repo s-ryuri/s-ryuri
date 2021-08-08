@@ -24,8 +24,8 @@ _Department of Computer Science and Engineering_
 
 :mailbox:: fbfbf1@naver.com
 
-## stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-ryuri123&&show_icons=true&theme=white)
+## Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-ryuri&&show_icons=true&theme=white)
 
 ## :computer:Tech Stack:computer:
 
@@ -44,5 +44,8 @@ _Department of Computer Science and Engineering_
 ## BOJ
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fbfbf1)](https://solved.ac/fbfbf1)  
 #### SeoulTech 10th
+
+## Naver Blog
+NAVER : https://blog.naver.com/fbfbf1
 
 
