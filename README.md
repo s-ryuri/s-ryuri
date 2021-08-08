@@ -47,7 +47,7 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fbfbf1)](https://solved.ac/fbfbf1)  
 #### SeoulTech 10th
 
-## Naver Blog
+## Blog
 NAVER : https://blog.naver.com/fbfbf1
 
 
