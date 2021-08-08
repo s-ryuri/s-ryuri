@@ -13,19 +13,21 @@
 - ⚡ Fun fact: ...
 -->
 ## Who am I😄
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20SeongryoolWee%20&height=300&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20SeongryoolWee%20&height=250&fontSize=90)
 
-B.S student
 
-**Seoul National University of Science and Technology (Seoultech)**
+**Seoul National University of Science and Technology (Seoultech)** 
 
-_Department of Industrial and Information Systems Engineering_  
-_Department of Computer Science and Engineering_
+### B.S student  
+### _Department of Industrial and Information Systems Engineering_  
+### _Department of Computer Science and Engineering_
 
 :mailbox:: fbfbf1@naver.com
 
+
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-ryuri&&show_icons=true&theme=white)
+
 
 ## :computer:Tech Stack:computer:
 
