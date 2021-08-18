@@ -20,7 +20,7 @@
 * ### _Department of Industrial and Information Systems Engineering_  
 * ### _Department of Computer Science and Engineering_
 * ### [IceLab](https://www.icelab.re.kr/home) (2020.07 ~ )
-* ### [GDSC Core Member](https://www.notion.so/gdsc-seoultech/GDSC-Seoultech-Member-Recruiting-9f4d795d5db148ec81353e21e4a7679e) (2021.08 ~ )
+* ### GDSC Core Member (2021.08 ~ )
 
 :mailbox:: fbfbf1@naver.com
 
