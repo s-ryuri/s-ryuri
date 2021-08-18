@@ -19,6 +19,8 @@
 * ### Seoul National University of Science and Technology (Seoultech)   
 * ### _Department of Industrial and Information Systems Engineering_  
 * ### _Department of Computer Science and Engineering_
+* ### IceLab(2020.07 ~ )
+* ### GDSC Core Member(2021.08 ~ )
 
 :mailbox:: fbfbf1@naver.com
 
