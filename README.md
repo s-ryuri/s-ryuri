@@ -51,3 +51,4 @@
 ## :smiley_cat:Scholarship
 * 2020 spring semester half-price scholarship (3rd)  
 * 2021 spring semester Full scholarship (1st)
+* 2021 fall semester
