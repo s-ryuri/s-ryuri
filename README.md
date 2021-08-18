@@ -49,6 +49,6 @@
 * [NAVER](https://blog.naver.com/fbfbf1)
 
 ## :smiley_cat:Scholarship
-* 2020 spring semester half-price scholarship (3rd)  
-* 2021 spring semester Full scholarship (1st)
-* 2021 fall semester
+* 2020 Spring semester half-price scholarship (3rd)  
+* 2021 Spring semester Full scholarship (1st)
+* 2021 Fall semester
