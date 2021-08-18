@@ -54,3 +54,5 @@
 * 2020 Spring semester half-price scholarship (3rd)  
 * 2021 Spring semester Full scholarship (1st)
 * 2021 Fall semester
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fs-ryuri&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
