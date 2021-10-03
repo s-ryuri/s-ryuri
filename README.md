@@ -26,7 +26,7 @@
 
 
 ## :smiley_cat:Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-ryuri&&show_icons=true&theme=white)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-ryuri&&show_icons=true&theme=buefy)
 
 
 ## :computer:Tech Stack:computer:
