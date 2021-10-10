@@ -49,7 +49,7 @@
 * #### SeoulTech 10th
 
 ## :smile_cat:Blog
-* [NAVER](https://blog.naver.com/fbfbf1)
+* ![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/fbfbf1)
 
 ## :smiley_cat:Scholarship
 * 2020 Spring semester half-price scholarship (3rd)  
