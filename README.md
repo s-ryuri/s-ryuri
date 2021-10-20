@@ -51,6 +51,11 @@
 ## :smile_cat:Blog
 * ![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)[류리상자](https://blog.naver.com/fbfbf1)
 
+## 😽Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-ryuri)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## :smiley_cat:Scholarship
 * 2020 Spring semester half-price scholarship (3rd)  
 * 2021 Spring semester Full scholarship (1st)
