@@ -16,7 +16,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20SeongryoolWee%20&height=230&fontSize=90&animation=fadeIn)
 
 
-* ### Seoul National University of Science and Technology (Seoultech)   
+* ### Seoul National University of Science and Technology (SeoulTech)   
 * ### _Department of Industrial and Information Systems Engineering_  
 * ### _Department of Computer Science and Engineering_
 * ### [IceLab](https://www.icelab.re.kr/home) (2020.07 ~ )
