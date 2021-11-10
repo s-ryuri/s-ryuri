@@ -22,7 +22,7 @@
 * ### [IceLab](https://www.icelab.re.kr/home) (2020.07 ~ )
 * ### [GDSC](https://gdsc-seoultech.github.io/) ML Core Member (2021.08 ~ )
 
-:mailbox:: fbfbf1@naver.com
+:mailbox:: **fbfbf1@naver.com**
 
 
 ## :smiley_cat:Stats
