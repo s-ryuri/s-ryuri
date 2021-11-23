@@ -45,7 +45,7 @@
 - ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ## :heart_eyes_cat:BOJ
-[![Solved.ac프로필](http://mazassumnida.wtf/api/paster/v2/generate_badge?boj=fbfbf1)](https://solved.ac/fbfbf1)  
+[![Solved.ac프로필](http://mazassumnida.wtf/api/pastel/v2/generate_badge?boj=fbfbf1)](https://solved.ac/fbfbf1)  
 * #### SeoulTech 10th
 
 ## :smile_cat:Blog
