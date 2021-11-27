@@ -44,12 +44,8 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 - ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-## :heart_eyes_cat:BOJ
-[![Solved.ac프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=fbfbf1)](https://solved.ac/fbfbf1)  
-* #### SeoulTech 10th
-
 ## :smile_cat:Blog
-* ![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)[류리상자](https://blog.naver.com/fbfbf1)
+* [Naver](https://blog.naver.com/fbfbf1)
 
 
 ## :smiley_cat:Scholarship
