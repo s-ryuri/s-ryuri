@@ -45,7 +45,7 @@
 - ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ## :smile_cat:Blog
-* [Naver](https://blog.naver.com/fbfbf1)
+* <a href = "https://blog.naver.com/fbfbf1">![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)
 
 
 ## :smiley_cat:Scholarship
