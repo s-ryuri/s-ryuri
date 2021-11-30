@@ -46,7 +46,7 @@
 
 ## :smile_cat:Blog
 * <a href = "https://blog.naver.com/fbfbf1">![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)
-
+* [Notion](https://www.notion.so/cd5cdbd7610a4b20957b82ac11d3cfe1)
 
 ## :smiley_cat:Scholarship
 * 2020 Spring semester half-price scholarship (3rd)  
