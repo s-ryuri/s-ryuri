@@ -44,7 +44,7 @@
 
 ## :smile_cat:Blog
 * <a href = "https://blog.naver.com/fbfbf1">![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)
-* [Notion](https://www.notion.so/cd5cdbd7610a4b20957b82ac11d3cfe1)
+* <a href = "https://www.notion.so/cd5cdbd7610a4b20957b82ac11d3cfe1">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
   
 ## :smile_cat:BOJ
   
