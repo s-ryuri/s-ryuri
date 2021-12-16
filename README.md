@@ -27,7 +27,6 @@
 
 ## :smiley_cat:Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-ryuri&&show_icons=true&theme=buefy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=s-ryuri&title=Joined2020,Commits,PullRequest,Repositories&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## :computer:Tech Stack:computer:
