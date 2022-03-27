@@ -39,7 +39,6 @@
 
 ## :smile_cat:Blog
 * <a href = "https://blog.naver.com/fbfbf1">![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)
-* <a href = "https://sprinkle-pull-89b.notion.site/Hello-World-4cdafc0542bb470fbf290950b1ac3c0e">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
   
 ## :smile_cat:BOJ
   
