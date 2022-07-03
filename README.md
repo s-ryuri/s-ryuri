@@ -17,10 +17,11 @@
 
 
 * ### Seoul National University of Science and Technology (SeoulTech)   
-* ### _Department of Industrial and Information Systems Engineering_  
+* ### _Department of Industrial and Information Systems Engineering
 * ### _Department of Computer Science and Engineering_
 * ### [IceLab](https://www.icelab.re.kr/home) (2020.07 ~ )
-* ### [GDSC](https://gdsc-seoultech.github.io/) Core Member (2021.08 ~)
+* ### [GDSC](https://gdsc-seoultech.github.io/) Core Member (2021.08.15 ~ 2022.05.10)
+* ### 11st BackEnd Intern (2022.6.13 ~ )
 
 :mailbox:: **fbfbf1@naver.com**
 
