@@ -41,6 +41,8 @@
 - ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 - ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
+## 🎇 Algorithm 🎇
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fbfbf1)](https://solved.ac/fbfbf1/)
 
 ## :smiley_cat:Scholarship
 * 2020 Spring semester half-price scholarship (3rd)  
