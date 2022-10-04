@@ -20,8 +20,6 @@
 * ### _Department of Computer Science and Engineering_
 * ### [IceLab](https://www.icelab.re.kr/home) (2020.07 ~ )
 * ### [GDSC](https://gdsc-seoultech.github.io/) SeoulTech 1st Core Member (2021.08.15 ~ 2022.05.10)
-* ### 11st BackEnd Intern (2022.6.13 ~ 2022.09.02)
-* ### 11st BackEnd Developer(2022.09.13 ~ )
 
 :mailbox:: **fbfbf1@naver.com**
 * <a href = "https://blog.naver.com/fbfbf1">![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)
