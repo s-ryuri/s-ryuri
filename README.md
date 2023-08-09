@@ -16,7 +16,8 @@
 백엔드 개발자 
 * <a href = "https://blog.naver.com/fbfbf1">![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)
 
-
+## Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fbfbf1)](https://solved.ac/fbfbf1/)
 
 ## :computer:Tech Stack:computer:
 
